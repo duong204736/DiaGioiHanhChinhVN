@@ -1,6 +1,7 @@
-## DiaGioiHanhCHinhVN
+## Địa giới hành chính Việt Nam (Update: 26/10/2024)
  Script tự động tải file excel từ website tổng cục thống kê https://danhmuchanhchinh.gso.gov.vn/Default.aspx và chuyển sang dạng cây json.
 
+ Chạy ```node index.js``` để update dữ liệu mới.
 
   - Tỉnh: Danh sách các tỉnh(tp trực thuộc trung ương) là 1 array, mỗi [phần tử] là object chứa:
     + Id
