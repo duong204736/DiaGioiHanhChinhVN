@@ -1,5 +1,6 @@
 {
   "name": "DGHC",
+  "description": "Danh sách địa giới hành chính Việt Nam",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

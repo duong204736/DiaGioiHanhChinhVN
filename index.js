@@ -25,7 +25,7 @@ const Download = async (x) => {
     return new Promise((resolve, reject) => {
         var options = {
             'method': 'POST',
-            'url': 'https://danhmuchanhchinh.gso.gov.vn/default.aspx',
+            'url': 'https://danhmuchanhchinh.gso.gov.vn/Default.aspx',
 
             'headers': {
                 'Connection': 'keep-alive',
